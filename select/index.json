@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "コロニー",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-26T12:51:48.087667Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Colony [コロニー]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_Colony_[コロニー]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コロニー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_コロニー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "コロニー・コラプス",
+      "artist": "Misery Index",
+      "has_synced": true,
+      "path": "select/03_コロニー・コラプス_Misery_Index.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "コロニー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_コロニー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "コロニー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_コロニー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "06 コロニー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/06_06_コロニー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コロニー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_コロニー_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
